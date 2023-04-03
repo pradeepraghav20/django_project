@@ -16,4 +16,5 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myapp.settings')
 application = get_asgi_application()
 
 
-#tesing done
+#tesing
+
