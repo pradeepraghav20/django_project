@@ -7,4 +7,5 @@ def index_test(request):
     return HttpResponse ("this is index page")
 
 def index_2(request):
+     #new comment added
      return HttpResponse ("this is index page 2")
